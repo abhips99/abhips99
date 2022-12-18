@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhips99
+- 👋 Hi, I’m Abhijeet Pahade
 - 👀 I’m interested in Web Developing
 - 🌱 I’m currently learning java script and React.js
 - 💞️ I’m looking to collaborate on MNCs
